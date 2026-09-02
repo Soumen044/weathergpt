@@ -258,9 +258,7 @@ Build artifacts are intentionally ignored by git. Rebuild the APK from source wh
 Later put:
 
 ```text
-Web: https://...
-API: https://...
-API Docs: https://...
+Web: [https://weathergpt-coral-psi.vercel.app/]
 ```
 
 ## 12. Video
@@ -273,6 +271,17 @@ Demo Video: YouTube URL
 
 ## 13. Team
 
-Maintainer: [Soumen044](https://github.com/Soumen044)
+Soumen Mishra [Soumen044](https://github.com/Soumen044)
+Dwaipayan Ch. Adhikary   [mailto:dwaipayanchaadhikaryy@gmail.com]
+Ashok Kumar Mahata
+Subham Patra
+Tarini Sankar Sau
+Sandhya Manna
+
+
+ashokmahata52@gmail.com
+subhampatr2006@gmail.com
+tarinisankarsau750@gmail.com
+sandhyamanna19@gmail.com
 
 Project: WeatherGPT - AI-Powered Conversational Weather Intelligence for India
