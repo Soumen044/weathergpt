@@ -259,7 +259,7 @@ Web: [https://weathergpt-coral-psi.vercel.app/](https://weathergpt-coral-psi.ver
 
 ## 12. Video
 
-Demo Video: YouTube URL
+Demo Video: [https://youtu.be/XvyzF2WNxIU]
 
 ## 13. Team
 
