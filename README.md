@@ -263,7 +263,7 @@ Demo Video: YouTube URL
 
 ## 13. Team
 
-* **Soumen Mishra** ([Soumen044](https://github.com/Soumen044))(mailto:soumenmishra187@gmail.com)
+* **Soumen Mishra** ([Soumen044](https://github.com/Soumen044))(soumenmishra187@gmail.com)
 * **Dwaipayan Ch. Adhikary** ([dwaipayanchaadhikaryy@gmail.com](mailto:dwaipayanchaadhikaryy@gmail.com))
 * **Ashok Kumar Mahata** ([ashokmahata52@gmail.com](mailto:ashokmahata52@gmail.com))
 * **Subham Patra** ([subhampatr2006@gmail.com](mailto:subhampatr2006@gmail.com))
